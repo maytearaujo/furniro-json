@@ -22,13 +22,13 @@ server.use(cors({ origin: 'https://furniro-lake.vercel.app' }));
 
 server.use(middlewares)
 // Add this before server.use(router)
-server.use(jsonServer.rewriter({
-    '/*': '/$1',
-}))
+// server.use(jsonServer.rewriter({
+//     '/*': '/$1',
+// }))
 server.use(router)
-server.listen(3000, () => {
-    console.log('JSON Server is running')
-})
+// server.listen(3000, () => {
+//     console.log('JSON Server is running')
+// })
 
 // Export the Server API
 module.exports = server
