@@ -11,8 +11,8 @@
       "destination": "api/server.js"
     },
     {
-      "source": "../../../src/assets/img/Shop/produtcs/:imgUrl",
-      "destination": "/src/assets/img/Shop/produtcs/:imgUrl"
+      "source": "/assets/img/Shop/produtcs/:image",
+      "destination": "../../../src/assets/img/Shop/produtcs/:image"
     }
   ],
   "headers": [
