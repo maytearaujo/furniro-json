@@ -11,32 +11,32 @@
   "BrowseTheRange": [
     {
       "id": "1",
-      "imgUrl": "/src/assets/img/home/BrowseTheRange/image-1.png",
+      "imgUrl": "/assets/img/home/BrowseTheRange/image-1.png",
       "rooms" : "Dining"
     },
     {
       "id": "2",
-      "imgUrl": "/src/assets/img/home/BrowseTheRange/image-2.png",
+      "imgUrl": "/assets/img/home/BrowseTheRange/image-2.png",
       "rooms" : "Living"
     },
     {
       "id": "3",
-      "imgUrl": "/src/assets/img/home/BrowseTheRange/image-3.png",
+      "imgUrl": "/assets/img/home/BrowseTheRange/image-3.png",
       "rooms" : "Bedroom"
     },
     {
       "id": "4",
-      "imgUrl": "/src/assets/img/home/BrowseTheRange/image-4.png",
+      "imgUrl": "/assets/img/home/BrowseTheRange/image-4.png",
       "rooms" : "Living"
     },
     {
       "id": "5",
-      "imgUrl": "/src/assets/img/home/BrowseTheRange/image-5.png",
+      "imgUrl": "/assets/img/home/BrowseTheRange/image-5.png",
       "rooms" : "Living"
     },
     {
       "id": "6",
-      "imgUrl": "/src/assets/img/home/BrowseTheRange/image-6.png",
+      "imgUrl": "/assets/img/home/BrowseTheRange/image-6.png",
       "rooms" : "Bedroom"
 
     }
@@ -44,90 +44,90 @@
   "OurProducts": [
     {
       "id": "1",
-      "imgUrl": "/src/assets/img/home/OurProducts/image-1.png"
+      "imgUrl": "/assets/img/home/OurProducts/image-1.png"
     },
     {
       "id": "2",
-      "imgUrl": "/src/assets/img/home/OurProducts/image-2.png"
+      "imgUrl": "/assets/img/home/OurProducts/image-2.png"
     },
     {
         "id": "3",
-        "imgUrl": "/src/assets/img/home/OurProducts/image-3.png",
+        "imgUrl": "/assets/img/home/OurProducts/image-3.png",
         "rooms" : "Living"
     },
     {
         "id": "4",
-        "imgUrl": "/src/assets/img/home/OurProducts/image-4.png",
+        "imgUrl": "/assets/img/home/OurProducts/image-4.png",
         "rooms" : "Living"
     },
     {
         "id": "5",
-        "imgUrl": "/src/assets/img/home/OurProducts/image-5.png"
+        "imgUrl": "/assets/img/home/OurProducts/image-5.png"
     },
     {
         "id": "6",
-        "imgUrl": "/src/assets/img/home/OurProducts/image-6.png"
+        "imgUrl": "/assets/img/home/OurProducts/image-6.png"
     },
     {
         "id": "7",
-        "imgUrl": "/src/assets/img/home/OurProducts/image-7.png",
+        "imgUrl": "/assets/img/home/OurProducts/image-7.png",
               "rooms" : "Bedroom"
     },
     {
       "id": "8",
-      "imgUrl": "/src/assets/img/home/OurProducts/image-8.png"
+      "imgUrl": "/assets/img/home/OurProducts/image-8.png"
     }
   ],
   "Inspiration" : [
     {
       "id": "1",
-      "imgUrl": "/src/assets/img/home/Beautiful-rooms-inspiration/image-1.png"
+      "imgUrl": "/assets/img/home/Beautiful-rooms-inspiration/image-1.png"
     },
     {
       "id": "2",
-      "imgUrl": "/src/assets/img/home/Beautiful-rooms-inspiration/image-2.png"
+      "imgUrl": "/assets/img/home/Beautiful-rooms-inspiration/image-2.png"
     },
     {
         "id": "3",
-        "imgUrl": "/src/assets/img/home/Beautiful-rooms-inspiration/image-3.png"
+        "imgUrl": "/assets/img/home/Beautiful-rooms-inspiration/image-3.png"
     }
   ],
   "FuniroFurniture" : [
     {
       "id": "1",
-      "imgUrl": "/src/assets/img/home/FuniroFurniture/image-1.png"
+      "imgUrl": "/assets/img/home/FuniroFurniture/image-1.png"
     },
     {
       "id": "2",
-      "imgUrl": "/src/assets/img/home/FuniroFurniture/image-2.png"
+      "imgUrl": "/assets/img/home/FuniroFurniture/image-2.png"
     },
     {
         "id": "3",
-        "imgUrl": "/src/assets/img/home/FuniroFurniture/image-3.png"
+        "imgUrl": "/assets/img/home/FuniroFurniture/image-3.png"
     },
     {
         "id": "4",
-        "imgUrl": "/src/assets/img/home/FuniroFurniture/image-4.png"
+        "imgUrl": "/assets/img/home/FuniroFurniture/image-4.png"
     },
     {
         "id": "5",
-        "imgUrl": "/src/assets/img/home/FuniroFurniture/image-5.png"
+        "imgUrl": "/assets/img/home/FuniroFurniture/image-5.png"
     },
     {
         "id": "6",
-        "imgUrl": "/src/assets/img/home/FuniroFurniture/image-6.png"
+        "imgUrl": "/assets/img/home/FuniroFurniture/image-6.png"
     },
     {
         "id": "7",
-        "imgUrl": "/src/assets/img/home/FuniroFurniture/image-7.png"
+        "imgUrl": "/assets/img/home/FuniroFurniture/image-7.png"
     },
     {
       "id": "8",
-      "imgUrl": "/src/assets/img/home/FuniroFurniture/image-8.png"
+      "imgUrl": "/assets/img/home/FuniroFurniture/image-8.png"
     },
     {
       "id": "9",
-      "imgUrl": "/src/assets/img/home/FuniroFurniture/image-9.png"
+      "imgUrl": "/assets/img/home/FuniroFurniture/image-9.png"
     }
   ],
   "Products" : [
