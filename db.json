@@ -1,44 +1,53 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": [
-    { "name": "typicode" }
+    {
+      "name": "typicode"
+    }
   ],
   "BrowseTheRange": [
     {
       "id": "1",
       "imgUrl": "/assets/img/home/BrowseTheRange/image-1.png",
-      "rooms" : "Dining"
+      "rooms": "Dining"
     },
     {
       "id": "2",
       "imgUrl": "/assets/img/home/BrowseTheRange/image-2.png",
-      "rooms" : "Living"
+      "rooms": "Living"
     },
     {
       "id": "3",
       "imgUrl": "/assets/img/home/BrowseTheRange/image-3.png",
-      "rooms" : "Bedroom"
+      "rooms": "Bedroom"
     },
     {
       "id": "4",
       "imgUrl": "/assets/img/home/BrowseTheRange/image-4.png",
-      "rooms" : "Living"
+      "rooms": "Living"
     },
     {
       "id": "5",
       "imgUrl": "/assets/img/home/BrowseTheRange/image-5.png",
-      "rooms" : "Living"
+      "rooms": "Living"
     },
     {
       "id": "6",
       "imgUrl": "/assets/img/home/BrowseTheRange/image-6.png",
-      "rooms" : "Bedroom"
-
+      "rooms": "Bedroom"
     }
   ],
   "OurProducts": [
@@ -51,34 +60,34 @@
       "imgUrl": "/assets/img/home/OurProducts/image-2.png"
     },
     {
-        "id": "3",
-        "imgUrl": "/assets/img/home/OurProducts/image-3.png",
-        "rooms" : "Living"
+      "id": "3",
+      "imgUrl": "/assets/img/home/OurProducts/image-3.png",
+      "rooms": "Living"
     },
     {
-        "id": "4",
-        "imgUrl": "/assets/img/home/OurProducts/image-4.png",
-        "rooms" : "Living"
+      "id": "4",
+      "imgUrl": "/assets/img/home/OurProducts/image-4.png",
+      "rooms": "Living"
     },
     {
-        "id": "5",
-        "imgUrl": "/assets/img/home/OurProducts/image-5.png"
+      "id": "5",
+      "imgUrl": "/assets/img/home/OurProducts/image-5.png"
     },
     {
-        "id": "6",
-        "imgUrl": "/assets/img/home/OurProducts/image-6.png"
+      "id": "6",
+      "imgUrl": "/assets/img/home/OurProducts/image-6.png"
     },
     {
-        "id": "7",
-        "imgUrl": "/assets/img/home/OurProducts/image-7.png",
-              "rooms" : "Bedroom"
+      "id": "7",
+      "imgUrl": "/assets/img/home/OurProducts/image-7.png",
+      "rooms": "Bedroom"
     },
     {
       "id": "8",
       "imgUrl": "/assets/img/home/OurProducts/image-8.png"
     }
   ],
-  "Inspiration" : [
+  "Inspiration": [
     {
       "id": "1",
       "imgUrl": "/assets/img/home/Beautiful-rooms-inspiration/image-1.png"
@@ -88,11 +97,11 @@
       "imgUrl": "/assets/img/home/Beautiful-rooms-inspiration/image-2.png"
     },
     {
-        "id": "3",
-        "imgUrl": "/assets/img/home/Beautiful-rooms-inspiration/image-3.png"
+      "id": "3",
+      "imgUrl": "/assets/img/home/Beautiful-rooms-inspiration/image-3.png"
     }
   ],
-  "FuniroFurniture" : [
+  "FurniroFurniture": [
     {
       "id": "1",
       "imgUrl": "/assets/img/home/FuniroFurniture/image-1.png"
@@ -102,24 +111,24 @@
       "imgUrl": "/assets/img/home/FuniroFurniture/image-2.png"
     },
     {
-        "id": "3",
-        "imgUrl": "/assets/img/home/FuniroFurniture/image-3.png"
+      "id": "3",
+      "imgUrl": "/assets/img/home/FuniroFurniture/image-3.png"
     },
     {
-        "id": "4",
-        "imgUrl": "/assets/img/home/FuniroFurniture/image-4.png"
+      "id": "4",
+      "imgUrl": "/assets/img/home/FuniroFurniture/image-4.png"
     },
     {
-        "id": "5",
-        "imgUrl": "/assets/img/home/FuniroFurniture/image-5.png"
+      "id": "5",
+      "imgUrl": "/assets/img/home/FuniroFurniture/image-5.png"
     },
     {
-        "id": "6",
-        "imgUrl": "/assets/img/home/FuniroFurniture/image-6.png"
+      "id": "6",
+      "imgUrl": "/assets/img/home/FuniroFurniture/image-6.png"
     },
     {
-        "id": "7",
-        "imgUrl": "/assets/img/home/FuniroFurniture/image-7.png"
+      "id": "7",
+      "imgUrl": "/assets/img/home/FuniroFurniture/image-7.png"
     },
     {
       "id": "8",
@@ -130,7 +139,7 @@
       "imgUrl": "/assets/img/home/FuniroFurniture/image-9.png"
     }
   ],
-  "Products" : [
+  "Products": [
     {
       "id": "1",
       "imgUrl": "/assets/img/Shop/produtcs/image-1.png",
@@ -563,7 +572,7 @@
       "discountPrice": "Rp 2.500.000",
       "fixPrice": "Rp 3.500.000"
     },
-   {
+    {
       "id": "55",
       "imgUrl": "/assets/img/Shop/produtcs/image-55.png",
       "produtcName": "Leviosa",
@@ -587,7 +596,6 @@
       "fixPrice": "Rp 500.000",
       "discountPrice": ""
     },
-
     {
       "id": "58",
       "imgUrl": "/assets/img/Shop/produtcs/image-58.png",
@@ -1076,7 +1084,7 @@
       "discountPrice": "Rp 2.500.000",
       "fixPrice": "Rp 3.500.000"
     },
-   {
+    {
       "id": "121",
       "imgUrl": "/assets/img/Shop/produtcs/image-121.png",
       "produtcName": "Leviosa",
@@ -1100,7 +1108,6 @@
       "fixPrice": "Rp 500.000",
       "discountPrice": ""
     },
-
     {
       "id": "124",
       "imgUrl": "/assets/img/Shop/produtcs/image-124.png",
@@ -1317,5 +1324,5 @@
       "discountPrice": "Rp 2.500.000",
       "fixPrice": "Rp 3.500.000"
     }
-  ]  
+  ]
 }
