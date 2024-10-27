@@ -133,7 +133,7 @@
   "Products" : [
     {
       "id": "1",
-      "imgUrl": "/src/assets/img/Shop/produtcs/image-1.png",
+      "imgUrl": "../../../src/assets/img/Shop/produtcs/image-1.png",
       "produtcName": "Syltherine",
       "sortDescription": "Stylish cafe chair",
       "discountPrice": "Rp 2.500.000",
@@ -141,7 +141,7 @@
     },
     {
       "id": "2",
-      "imgUrl": "/src/assets/img/Shop/produtcs/image-2.png",
+      "imgUrl": "../../src/assets/img/Shop/produtcs/image-2.png",
       "produtcName": "Leviosa",
       "sortDescription": "Stylish cafe chair",
       "discountPrice": "Rp 2.500.000",
