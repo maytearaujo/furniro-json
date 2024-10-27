@@ -9,6 +9,10 @@
     {
       "source": "/(.*)",
       "destination": "api/server.js"
+    },
+    {
+      "source": "../../../src/assets/img/Shop/produtcs/:image",
+      "destination": "/src/assets/img/Shop/produtcs/:image"
     }
   ],
   "headers": [
